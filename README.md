@@ -1,7 +1,8 @@
 This is successful execution of the ubuntu mini-neural computer jetson nano hardware running ai based object detection, using 
-the [jetson nano detection and tracking kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking).
+the python [jetson nano software detection and tracking kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking).
 
-This kit is a small neural-computer with 128 tegra cores, which runs machine learning tools and libraries designed for arm usage. 
+The [jetson hardware kit](https://www.amazon.com/Jetson-Nano-Developer-Kit-Package/dp/B07RQRMXQ6) is a small neural-computer with 128 tegra cores, which runs machine learning tools and libraries designed for arm usage. 
+
 As the small neural computer comes without ability to boot, one is first required to prepare a disk image on a micro sd card using something other than the aforesaid jetson-nano neural computer, and I used my desktop to perform the tasks below.
 
 
