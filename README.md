@@ -27,6 +27,8 @@ After doing the above, [the ai kit](https://github.com/SteveMacenski/jetson_nano
 
 [Youtube/Live Ai object detection on tiny jetson nano neural computer](https://www.youtube.com/watch?v=Vp93UgLiq-w&feature=youtu.be)
 
+At minute [0:52](https://youtu.be/Vp93UgLiq-w?t=51) from video above, the ai model detects my work id which is cool.
+
 
 
 Future plans
