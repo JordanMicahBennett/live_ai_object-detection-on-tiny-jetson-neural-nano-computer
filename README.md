@@ -17,13 +17,13 @@ Steps I took:
 
 4. Taking about 5 hours (slow internet connection at home) I then installed the [jetson nano detection and tracking kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking). This kit allows us to run an ai based (convolutional neural network etc) object detection model. 
 
-5. Oops, one reason why [the kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) failed to work at first, but then I suspected I didn't install the camera properly. The camera must be placed on the board in a particular order, which I discovered [here](https://medium.com/@dmccreary/getting-your-camera-working-on-the-nvida-nano-336b9ecfed3a).
+5. Oops, one reason why [the kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) failed to work at first, is as I suspected; I didn't install the camera properly. The camera must be placed on the board in a particular order, which I discovered [here](https://medium.com/@dmccreary/getting-your-camera-working-on-the-nvida-nano-336b9ecfed3a).
 
-6. Another reason why the kit failed to work first, was due to a "canberry error". A quick "sudo-apt get install libcanberra-gtk-module" fixed that error.
+6. Another reason why the kit failed to work first, was due to a "canberra error". A quick "sudo-apt get install libcanberra-gtk-module" fixed that error.
 
 Success! 
 ===
-After doing the above, [the ai kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) with the ability to detect objects in camera stream right on the jetson nano mini neural computer, without need to connect to my somewhat powerful i7 desktop (as I captured in the clip below): 
+After doing the above, [the ai kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) can now detect objects in camera stream right on the jetson nano mini neural computer, without need to connect to my somewhat powerful i7 desktop (as I captured in the clip below): 
 
 [Youtube/Live Ai object detection on tiny jetson nano neural computer](https://www.youtube.com/watch?v=Vp93UgLiq-w&feature=youtu.be)
 
