@@ -11,7 +11,7 @@ Steps I took:
 ===
 1. Via [budgetpcja](https://www.facebook.com/budgetpcja/), I bought and shipped [jetson-nano-kit](https://www.amazon.com/Jetson-Nano-Developer-Kit-Package/dp/B07RQRMXQ6), for 253 USD, which comes with a tiny lcd screen seen in success video below, adaptor, appropriate usb and hdmi cords, small Rpi camera. I also separately bought a case to cover the nano-board, and a reflective film. (Took a week for kit to arrive here to Jamaica)
 
-2. For the purpose of running nano sdk/OS on nano, using an i7 Desktop (that I also bought and shipped through [budgetpcja](https://www.facebook.com/budgetpcja/), I flashed a 64 gig micro sd card that comes with kit above, according to [a relevant nvidia guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) Took about half an hour or less.
+2. For the purpose of running nano sdk/OS on nano, using an i7 Desktop (that I also bought and shipped through [budgetpcja](https://www.facebook.com/budgetpcja/)), I flashed a 64 gig micro sd card that comes with kit above, according to [a relevant nvidia guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) Took about half an hour or less.
 
 3. Finally, booted small jetson nano neural computer on the flashed micro sd card, before which I had assembled kit, plus used usb keyboard, wifi adaptor, usb mouse. (Took maybe ~30 minutes to get booted result, where I could login to the nano)
 
