@@ -8,8 +8,8 @@ As the small neural computer comes without ability to boot, one is first require
 
 
 Steps I took:
-
-1. Via [budgetpcja](https://www.facebook.com/budgetpcja/), I bought and shipped [jetson-nano-kit](https://www.amazon.com/Jetson-Nano-Developer-Kit-Package/dp/B07RQRMXQ6), 253 usd. (Took a week to arrive here to Jamaica)
+===
+1. Via [budgetpcja](https://www.facebook.com/budgetpcja/), I bought and shipped [jetson-nano-kit](https://www.amazon.com/Jetson-Nano-Developer-Kit-Package/dp/B07RQRMXQ6), 253 usd, along with a case to cover the nano-board, and a reflective film. (Took a week to arrive here to Jamaica)
 
 2. For the purpose of running nano sdk/OS on nano, using an i7 Desktop (that I also bought and shipped through [budgetpcja](https://www.facebook.com/budgetpcja/), I flashed a 64 gig micro sd card that comes with kit above, according to [a relevant nvidia guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) Took about half an hour or less.
 
@@ -21,4 +21,14 @@ Steps I took:
 
 6. Another reason why the kit failed to work first, was due to a "canberry error". A quick "sudo-apt get install libcanberra-gtk-module" fixed that error.
 
-7. After doing the above, [the ai kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) with the ability to detect objects in camera stream, as I captured in the clip below:
+Success! 
+===
+After doing the above, [the ai kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) with the ability to detect objects in camera stream right on the jetson nano mini neural computer, without need to connect to my somewhat powerful i7 desktop (as I captured in the clip below): 
+
+[Youtube/Live Ai object detection on tiny jetson nano neural computer](https://www.youtube.com/watch?v=Vp93UgLiq-w&feature=youtu.be)
+
+
+
+Future plans
+===
+I also bought a reflective film along with the kit, which is to be placed on my car's windshield, to reflect the small lcd screen that came with nano kit. Now working on a project to help warn driver of road conditions. The warnings will be visible to the driver via the reflective film.
