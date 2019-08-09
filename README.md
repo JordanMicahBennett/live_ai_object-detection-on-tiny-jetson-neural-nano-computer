@@ -33,4 +33,4 @@ At minute [1:00](https://www.youtube.com/watch?v=Vp93UgLiq-w&t=60s) from video a
 
 Future plans
 ===
-I also bought a reflective film along with the kit, which is to be placed on my car's windshield, to reflect the small lcd screen that came with nano kit. Now working on a project to help warn driver of road conditions. The warnings will be visible to the driver via the reflective film.
+I also bought a reflective film along with the kit, which is to be placed on my car's windshield, to reflect the small lcd screen that came with nano kit. Now working on a project to help warn driver of road conditions. The warnings will be visible to the driver via the reflective film. See [this video](https://www.youtube.com/watch?v=cfUmRj976qE) which shows a speedometer on reflective film/hud. I will do something like the video, but with ai based road condition warnings instead of speedometer numbers.
