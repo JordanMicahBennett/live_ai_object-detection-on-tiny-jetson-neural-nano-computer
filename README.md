@@ -20,4 +20,4 @@ Steps I took:
 
 6. Another reaosn why the kit failed to work first, was due to a "canberry error". A quick "sudo-apt get install libcanberra-gtk-module" fixed that error.
 
-7. After doing the above, [the ai kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) with the ability to detect objects in camera stream.
+7. After doing the above, [the ai kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) with the ability to detect objects in camera stream, as I captured in the clip below:
