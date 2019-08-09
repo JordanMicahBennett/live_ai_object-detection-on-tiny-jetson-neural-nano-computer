@@ -18,6 +18,6 @@ Steps I took:
 
 5. Oops, one reason why [the kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) failed to work at first, but then I suspected I didn't install the camera properly. The camera must be placed on the board in a particular order, which I discovered [here](https://medium.com/@dmccreary/getting-your-camera-working-on-the-nvida-nano-336b9ecfed3a).
 
-6. Another reaosn why the kit failed to work first, was due to a "canberry error". A quick "sudo-apt get install libcanberra-gtk-module" fixed that error.
+6. Another reason why the kit failed to work first, was due to a "canberry error". A quick "sudo-apt get install libcanberra-gtk-module" fixed that error.
 
 7. After doing the above, [the ai kit](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) with the ability to detect objects in camera stream, as I captured in the clip below:
